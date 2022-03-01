@@ -8,4 +8,4 @@ I really like coding. I know Python, Java, HTML/CSS and currently learning C#. H
 
 ### Follow me
 - [Twitter](https://twitter.com/yot360)
-- [Website](https://yot-dev.ml)
+- [Website](https://yot-dev.com)
