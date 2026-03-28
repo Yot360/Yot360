@@ -8,4 +8,3 @@ Neuille
 
 ### Follow me
 - [Twitter](https://twitter.com/yot360)
-- [Website](https://yot-dev.com)
